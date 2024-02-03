@@ -1,0 +1,11 @@
+.tree {
+  background-image: url("./Images/tree2.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.backgroundImage {
+  background-image: url("./Images/dashboard.png");
+  background-color: blueviolet;
+}
